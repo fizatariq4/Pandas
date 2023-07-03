@@ -1,0 +1,5 @@
+	These analyses can help us understand the distribution of schools and the academic performance of students based on school types, school budget, their math/reading scores, and number of students. Further exploration and comparisons between different metrics, such as reading scores and passing rates, can provide a comprehensive understanding of the impact of school types on student outcomes.
+
+	From the calculations, we can see there are apparent funding disparities. The "Per Student Budget" column in the data frame shows that the charter schools have a lot more funding than the charter schools which in turn gives them more resources to achieve higher score in both math and reading. 
+
+	These conclusions and comparisons provide valuable insights into funding disparities and academic performance, enabling further investigation and discussions on the impact of school types on student outcomes.
